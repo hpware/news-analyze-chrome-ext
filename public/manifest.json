@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Hider",
+  "author": "Howard",
+  "version": "1.0.0",
+  "description": "description for your extension",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "vite.svg"
+  }
+}
